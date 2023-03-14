@@ -1,0 +1,11 @@
+Model Information:
+* title:	BMW M3 E96 Drift Car
+* source:	https://sketchfab.com/3d-models/bmw-m3-e96-drift-car-e79fd42a2781482889b898727a330d5e
+* author:	Todor Malakchiev (https://sketchfab.com/todormalakchiev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BMW M3 E96 Drift Car" (https://sketchfab.com/3d-models/bmw-m3-e96-drift-car-e79fd42a2781482889b898727a330d5e) by Todor Malakchiev (https://sketchfab.com/todormalakchiev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
