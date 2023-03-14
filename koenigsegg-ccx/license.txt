@@ -1,0 +1,11 @@
+Model Information:
+* title:	2007 Koenigsegg CCX (No Roof)
+* source:	https://sketchfab.com/3d-models/2007-koenigsegg-ccx-no-roof-423b64e085974b97b5cfd5a87d9dcce3
+* author:	_Sheep19 (https://sketchfab.com/shobhit190401)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2007 Koenigsegg CCX (No Roof)" (https://sketchfab.com/3d-models/2007-koenigsegg-ccx-no-roof-423b64e085974b97b5cfd5a87d9dcce3) by _Sheep19 (https://sketchfab.com/shobhit190401) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
